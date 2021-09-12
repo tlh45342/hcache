@@ -16,7 +16,7 @@ pip install -r requirements.txt
 
 ## STRUCTURE
 
-    ├── CHANGES                     Change logs
+    ├── README.md                   This file.
     ├── LICENSE                     License file
     ├── requirements.txt            3rd libraries
     ├── hcache.py                   main module
