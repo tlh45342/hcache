@@ -30,7 +30,7 @@ if a  symbol is an ETF or not.
 
 ## NOTE:
 
-requests-cache might be interarsting to look into.
+requests-cache might be interarsting to look into.  This is semi based on the concept that ziptrader could process "bundles" of data. One of the bundles apparently was a CSV bundle where you could place data as a packet of CSVs for ziptrader to pull from.
 
 ## CHANGES
 
