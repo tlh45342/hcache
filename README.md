@@ -18,8 +18,9 @@ pip install -r requirements.txt
 
     ├── CHANGES                     Change logs
     ├── requirements.txt            3rd libraries
-    ├── hcache.py                   main file
-    ├── process-listings.py         Used to import data from NASDAQ file (optional)
+    ├── hcache.py                   main module
+    ├── init.py                     stub to initialize database
+    └── process-listings.py         Used to import data from NASDAQ file (optional)
 
 ## How to enumerate all stocks
 
