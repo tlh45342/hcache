@@ -14,10 +14,6 @@ To make sure you have all the python modules installed.
 pip install -r requirements.txt
 ```
 
-## SIDEBAR: Notes for creating a service for Linux based distributions
-
-I am putting my notes here now -
-
 ## STRUCTURE
 
     ├── CHANGES                     Change logs
