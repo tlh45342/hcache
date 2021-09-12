@@ -17,6 +17,7 @@ pip install -r requirements.txt
 ## STRUCTURE
 
     ├── CHANGES                     Change logs
+    ├── LICENSE                     License file
     ├── requirements.txt            3rd libraries
     ├── hcache.py                   main module
     ├── init.py                     stub to initialize database
