@@ -1,6 +1,6 @@
 # hcache
 
-This will be my tool manage/cache hstorical data management.
+This will be my tool to manage/cache hstorical data.
 
 ## INSTALLATION
 
